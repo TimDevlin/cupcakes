@@ -1,0 +1,35 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+  color: blue;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  color:orange;
+}
+
+.flashy {
+  color:red;
+  font-style: italic;
+  font-size: 24;
+}
+
+.best {
+font-style: italic;
+color: pink;
+font-size: 24;
+font-family: fantasy;
+text-align: right;
+background-color: yellow;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
