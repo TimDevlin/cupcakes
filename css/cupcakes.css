@@ -2,6 +2,7 @@ p.intro {
   width: 50%;
   font-style: italic;
   color: blue;
+  float: left;
 }
 
 p.author {
@@ -25,11 +26,24 @@ font-style: italic;
 color: pink;
 font-size: 24;
 font-family: fantasy;
-text-align: right;
+float: right;
 background-color: yellow;
 }
 
 img {
   width: 500px;
   height: auto;
+}
+
+.heading {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+.sidebar {
+  float: left;
+  font-size: 20px;
+  background-color: pink;
+  border-color: red;
 }
